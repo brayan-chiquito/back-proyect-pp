@@ -1,0 +1,108 @@
+{
+  "conversations": {
+    "197066185826338@lid:pasteleria": [
+      {
+        "role": "user",
+        "content": "Que productos tienes",
+        "ts": "2026-04-13T03:14:31.179741+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "¡Hola! 👋 Gracias por escribirme.\n\nEn este momento estoy actualizando nuestro catálogo de productos. Déjame confirmarlo y te escribo en unos minutos con toda la info de tortas, cupcakes, postres y más.\n\nMientras tanto, ¿hay alguna ocasión especial que celebres? 🎂",
+        "ts": "2026-04-13T03:14:31.185494+00:00"
+      },
+      {
+        "role": "user",
+        "content": "Unos 15",
+        "ts": "2026-04-13T03:14:59.681094+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "¡Qué bacano! 🎉\n\n¿Es para una torta, cupcakes, o estás pensando en una mesa de postres completa? Y cuéntame, ¿qué se celebra?",
+        "ts": "2026-04-13T03:14:59.686997+00:00"
+      },
+      {
+        "role": "user",
+        "content": "Para una boda",
+        "ts": "2026-04-13T03:21:16.422678+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "¡Qué emoción! Una boda es especial 💕\n\nPara 15 personas en boda tenemos opciones hermosas. Ahora te conecto con nuestra repostera que diseña estos eventos —ella te mostrará ideas, sabores y presupuestos personalizados.\n\n¡En un momento te escribe! 🧁",
+        "ts": "2026-04-13T03:21:16.429116+00:00"
+      },
+      {
+        "role": "user",
+        "content": "Que menú tienes?",
+        "ts": "2026-04-13T03:23:24.315791+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "Para bodas armamos menús personalizados según tus gustos y presupuesto.\n\n¡Claro! Te conecto con nuestra repostera para que te muestre todas las opciones y detalles. En un momento te escribe 🧁",
+        "ts": "2026-04-13T03:23:24.321746+00:00"
+      },
+      {
+        "role": "user",
+        "content": "Pendeja mándeme las fotos",
+        "ts": "2026-04-13T03:30:55.269271+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "Te pedimos un trato respetuoso para poder ayudarte mejor 🙏\n\n¿En qué puedo orientarte?",
+        "ts": "2026-04-13T03:30:55.275852+00:00"
+      }
+    ],
+    "153755601387666@lid:pasteleria": [
+      {
+        "role": "user",
+        "content": "dame el menu por favor",
+        "ts": "2026-04-13T03:15:39.137579+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "¡Hola! 👋 Claro que sí, con gusto te paso lo que tenemos disponible.\n\nDéjame confirmarlo y te escribo en unos minutos con toda la oferta actualizada, precios y detalles.\n\nMientras tanto, ¿hay algo específico que tengas en mente? ¿Es para una ocasión especial o solo antojito de algo dulce? 🎂",
+        "ts": "2026-04-13T03:15:39.143757+00:00"
+      },
+      {
+        "role": "user",
+        "content": "quiero un pastel",
+        "ts": "2026-04-13T03:20:05.217641+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "¡Perfecto! Te encanta lo dulce 😊\n\nTenemos varias opciones: tortas personalizadas para 20 porciones, tortas de vitrina (listas el mismo día) y otras delicias. ¿Es para una ocasión especial o solo porque te antoja algo ahora? 🎂",
+        "ts": "2026-04-13T03:20:05.223842+00:00"
+      },
+      {
+        "role": "user",
+        "content": "dame el menu o los productos que tienes disponibles",
+        "ts": "2026-04-13T03:28:11.085823+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "Claro, aquí va lo que tenemos:\n\n- Torta personalizada 20 porciones (diseño a tu elección)\n- Torta vitrina (disponible el mismo día)\n- Cupcakes decorados (decorados a mano)\n- Brownies (caja sellada)\n\n¿Cuál de estas te llama la atención? 🎂",
+        "ts": "2026-04-13T03:28:11.092130+00:00"
+      }
+    ],
+    "256160993177728@lid:pasteleria": [
+      {
+        "role": "user",
+        "content": "Buenas noches mi niña hermosa.  Espero que duermas muy bien. Que sueñes cosas muy lindas y que mañana sea un gran dia en el colegio.",
+        "ts": "2026-04-13T03:42:07.770539+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "Buenas noches 💚\n\nEso está por fuera de lo que puedo ayudarte acá 😊\n¿Hay algo de nuestros productos en lo que pueda orientarte?",
+        "ts": "2026-04-13T03:42:07.777331+00:00"
+      }
+    ]
+  },
+  "abuse_events": [
+    {
+      "phone": "197066185826338@lid",
+      "tenant": "pasteleria",
+      "text": "Pendeja mándeme las fotos",
+      "ts": "2026-04-13T03:30:49.221327+00:00"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+#doc
+/docs
+#.cursor
+/.cursor
+
+.env
+bridge/sessions/
+__pycache__/
+*.pyc
+bridge/node_modules/
